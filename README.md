@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+This will be more robust shortly! In the meantime, check out my portfolio page:
+
+www.petegriffith.dev
+
+or
+
+https://github.com/petegriffith/portfolioV1
+
+depending on your needs :smiley:
+
+
 <!--
 **petegriffith/petegriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
