@@ -10,7 +10,7 @@ https://github.com/petegriffith/portfolioV1
 
 depending on your needs :smiley:
 
-[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=petegriffith)](https://github.com/anuraghazra/github-readme-stats)
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=petegriffith&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
