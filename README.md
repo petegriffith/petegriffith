@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 I'm a remote-first, full-stack developer living in the mountains of rural Japan. Check out my portfolio page
@@ -7,7 +9,7 @@ www.petegriffith.dev  or  https://github.com/petegriffith/portfolioV1
 depending on your needs :smiley:
 
 ***
-<div align="center">
+
   <table>
     <thead>
       <tr>
