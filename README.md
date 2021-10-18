@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### I'm a remote-first, full-stack developer living in the mountains of rural Japan. You might want to start with my [Portfolio Site](www.petegriffith.dev). If you're here exploring my github, you're just as likely to want to see if from [another angle](https://github.com/petegriffith/portfolioV1) :smiley:
+### I'm a remote-first, full-stack developer living in the mountains of rural Japan. If you want to see my work, you might want to start with my [Portfolio Site](www.petegriffith.dev). Since you're here exploring my github, you're just as likely to want to see if from [another angle](https://github.com/petegriffith/portfolioV1) :smiley:
 
   </div>
   
