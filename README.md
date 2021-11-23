@@ -35,7 +35,6 @@
           <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap" />
           <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-000?logo=quasar" />
           <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
-          <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-000?&logo=react" />
         </td>
       </tr>
       <tr>
