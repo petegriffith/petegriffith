@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### I'm a remote-first, full-stack developer living in the mountains of rural Japan. If you want to see my work, you might want to start with my [Portfolio Site](https://www.petegriffith.dev). Since you're here exploring my github, you're just as likely to want to see if from [another angle](https://github.com/petegriffith/portfolioV1) :smiley:
+### I'm a remote-first, full-stack developer living in the mountains of rural Japan.
 
   </div>
   
@@ -30,11 +30,10 @@
       <tr>
         <td>Front-End technologies</td>
         <td>
-          <img alt="Vue" src="https://img.shields.io/badge/-Vue%202%20&%203-000?logo=vue.js" />
-          <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-000?logo=vuetify" />
-          <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap" />
-          <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-000?logo=quasar" />
           <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
+          <img alt="Next" src="https://img.shields.io/badge/-Next.js-000?&logo=next.js" />
+          <img alt="Jest" src="https://img.shields.io/badge/-Jest-000?&logo=jest" />
+          <img alt="Vue" src="https://img.shields.io/badge/-Vue%202%20&%203-000?logo=vue.js" />
         </td>
       </tr>
       <tr>
